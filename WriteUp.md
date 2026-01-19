@@ -40,7 +40,7 @@ To evaluate the model's performance, I used accuracy, precision, recall, and F1-
 
                precision    recall  f1-score   support
 
-Not Sarcastic       0.92      0.95      0.94      2996
+    Not Sarcastic       0.92      0.95      0.94      2996
     Sarcastic       0.93      0.90      0.92      2346
 
      accuracy                           0.93      5342
